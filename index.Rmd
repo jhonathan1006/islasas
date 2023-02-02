@@ -1,5 +1,7 @@
 ---
-title: "Mi sitio web"
+title: "Inicio"
 ---
 
 Bien venidos a nuestro sitio web 
+
+

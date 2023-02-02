@@ -1,9 +1,13 @@
-name: "Mi sitio Web"
+name: "My blog"
 output_dir: "."
 navbar:
-  title: "Mi sitio web"
+  title: "My blog"
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "About"
+    - text: "Jhonathan Aponte Saravia"
       href: about.html
+    - text: "Area de conocimiento"
+      href: about.html
+    - text: "Publicaciones"
+      href: about.html  
